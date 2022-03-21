@@ -1,3 +1,5 @@
+#Получение IP-address
+
 import socket
 
 
